@@ -1,0 +1,122 @@
+.header {
+  background-color: rgb(245, 244, 244);
+  width: 100vw;
+  height: 70px;
+}
+.second-div {
+  display: flex;
+}
+.count {
+  margin: 20px;
+  text-align: center;
+  margin-top: 15px;
+  height: 30px;
+  width: 60px;
+  color: white;
+  background-color: rgb(37, 162, 183);
+  border-radius: 30px 30px 30px 30px;
+  box-shadow: 0px 0px 6px 6px red;
+}
+.icon-ant {
+  color: rgb(233, 4, 27);
+  font-size: 40px;
+  margin-left: 40px;
+}
+.middle {
+  font-size: 40px;
+}
+.reset-btn {
+  justify-content: space-evenly;
+  display: flex;
+  margin-top: 20px;
+  margin-left: 360px;
+  background-color: greenyellow;
+  width: 280px;
+  height: 70px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0px 0px 6px 6px red;
+}
+.refresh-btn {
+  font-size: 35px;
+  background-color: rgb(48, 166, 74);
+  border: none;
+  margin: 10px;
+  border-radius: 8px;
+}
+.refresh-btn:hover {
+  background-color: rgb(27, 110, 45);
+  cursor: pointer;
+}
+.reset-icon {
+  font-size: 35px;
+  background-color: rgb(104, 172, 252);
+  border: none;
+  margin: 10px;
+  border-radius: 8px;
+}
+.reset-icon:hover {
+  background-color: rgb(7, 97, 199);
+  opacity: 1;
+}
+.end {
+  display: flex;
+  margin-left: 350px;
+  margin-top: 10px;
+}
+.couter-number {
+  width: 80px;
+  background-color: rgb(254, 192, 47);
+  border: none;
+  margin: 10px;
+  font-size: 30px;
+  border-radius: 8px;
+}
+/* .couter-number:hover{
+    background-color: rgb(131, 95, 11);
+} */
+.add {
+  background-color: rgb(109, 117, 125);
+  border: none;
+  margin: 10px;
+  font-size: 40px;
+  width: 45px;
+  color: white;
+  border-radius: 8px;
+}
+.add:hover {
+  background-color: rgb(40, 56, 71);
+}
+.subtract {
+  background-color: rgb(114, 195, 208);
+  border: none;
+  margin: 10px;
+  font-size: 40px;
+  width: 45px;
+  color: white;
+  border-radius: 8px;
+}
+.subtract:hover {
+  background-color: rgb(26, 142, 160);
+}
+.delete-icon {
+  background-color: rgb(233, 4, 27);
+  border: none;
+  margin: 10px;
+  font-size: 40px;
+  width: 48px;
+  color: white;
+  border-radius: 8px;
+}
+.delete-icon:hover {
+  background-color: rgb(119, 18, 29);
+}
+
+.header-add-button{
+  background-color: black;
+  border: none;
+  margin: 10px;
+  font-size: 40px;
+  width: 45px;
+  color: white;
+  border-radius: 8px;
+}
